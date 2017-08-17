@@ -1,0 +1,2 @@
+# kunciscript
+daftar script
